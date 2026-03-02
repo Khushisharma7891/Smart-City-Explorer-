@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+body{
+margin:0;
+font-family:'Inter', sans-serif;
+background:#f4f6f8;
+color:#1f2933;
+}
+
+h1{
+text-align:center;
+padding:18px;
+margin:0;
+background:white;
+font-weight:600;
+font-size:24px;
+border-bottom:1px solid #e0e0e0;
+}
+
+.topbar{
+text-align:center;
+padding:25px;
+margin:30px auto;
+width:90%;
+max-width:900px;
+background:white;
+border-radius:12px;
+box-shadow:0 8px 25px rgba(0,0,0,0.05);
+}
+
+input{
+padding:12px;
+width:260px;
+margin:8px;
+border-radius:8px;
+border:1px solid #d1d5db;
+outline:none;
+font-size:14px;
+transition:0.2s ease;
+}
+
+input:focus{
+border-color:#2563eb;
+box-shadow:0 0 0 3px rgba(37,99,235,0.1);
+}
+
+button{
+padding:12px 20px;
+margin:8px;
+border-radius:8px;
+border:none;
+background:#1f2933;
+color:white;
+font-weight:500;
+font-size:14px;
+cursor:pointer;
+transition:0.3s ease;
+}
+
+button:hover{
+background:#111827;
+transform:translateY(-2px);
+}
+
+button.secondary{
+background:#e5e7eb;
+color:#111827;
+}
+
+button.secondary:hover{
+background:#d1d5db;
+}
+
+.buttons{
+text-align:center;
+margin-top:10px;
+}
+
+#map{
+height:520px;
+margin:30px auto;
+width:90%;
+max-width:1100px;
+border-radius:14px;
+box-shadow:0 10px 30px rgba(0,0,0,0.08);
+}
+
+#distanceText{
+text-align:center;
+margin-top:10px;
+font-size:15px;
+font-weight:500;
+color:#374151;
+}

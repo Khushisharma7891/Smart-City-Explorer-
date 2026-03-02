@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Smart City Explorer</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<h1>Smart City Explorer</h1>
+
+<!-- Loader -->
+<div id="loader"></div>
+
+<!-- Main Container -->
+<div class="container">
+
+<!-- Sidebar -->
+<div class="sidebar">
+
+<div class="topbar">
+
+<input type="text" id="startBox" placeholder="Current Location">
+
+<input type="text" id="destBox" placeholder="Destination">
+
+<button onclick="findRoute()">Find Route</button>
+
+<button onclick="getLocation()">My Location</button>
+
+</div>
+
+<div class="buttons">
+
+<button onclick="showPlaces('cafe')">Cafes</button>
+
+<button onclick="showPlaces('hospital')">Hospitals</button>
+
+<button onclick="showPlaces('school')">Schools</button>
+
+<button onclick="showMetro()">Metro</button>
+
+</div>
+
+<div id="distanceText"></div>
+
+</div>
+
+<!-- Map -->
+<div id="map"></div>
+
+</div>
+
+<!-- Floating Location Button -->
+<button id="locateBtn" onclick="getLocation()">📍</button>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script src="script.js"></script>
+
+</body>
+</html>
