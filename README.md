@@ -6,12 +6,12 @@ An interactive map-based web application designed to help users explore cities, 
 
 ## Features
 
-✔️ Interactive city map  
-✔️ Search locations easily  
-✔️ Route calculation and navigation  
-✔️ Explore nearby places  
-✔️ User-friendly interface  
-✔️ Responsive design for multiple devices  
+-Interactive city map  
+-Search locations easily  
+-Route calculation and navigation  
+-Explore nearby places  
+-User-friendly interface  
+-Responsive design for multiple devices  
 
 ---
 
@@ -34,11 +34,11 @@ The goal of this project is to create an interactive platform that helps users n
 
 Visit the project here:
 
-https://khushisharma7891.github.io/smart-city-explorer/
+https://khushisharma7891.github.io/Smart-City-Explorer-/
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 smart-city-explorer/
@@ -58,7 +58,7 @@ smart-city-explorer/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Khushi Sharma**  
 
