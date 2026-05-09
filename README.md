@@ -1,2 +1,65 @@
-# Smart-City-Explorer-
-Smart City Explorer is a web-based interactive map application built using HTML, CSS, JavaScript and Leaflet.js.It allows users to search locations, find routes between places, calculate distance, and explore nearby cafes, hospitals, schools and metro routes.
+# Smart City Explorer
+
+An interactive map-based web application designed to help users explore cities, search locations, calculate routes, and discover nearby essential services such as hospitals, restaurants, metro stations, and more.
+
+---
+
+## Features
+
+✔️ Interactive city map  
+✔️ Search locations easily  
+✔️ Route calculation and navigation  
+✔️ Explore nearby places  
+✔️ User-friendly interface  
+✔️ Responsive design for multiple devices  
+
+---
+
+## Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Leaflet.js  
+- OpenStreetMap API  
+
+---
+## Purpose of the Project
+
+The goal of this project is to create an interactive platform that helps users navigate and explore smart city services efficiently while improving accessibility to important locations.
+
+---
+
+## Live Demo
+
+Visit the project here:
+
+https://khushisharma7891.github.io/smart-city-explorer/
+
+---
+
+## 📂 Project Structure
+
+```text
+smart-city-explorer/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+```
+
+## Future Improvements
+
+- Dark mode support  
+- Weather integration  
+- Smart recommendations  
+- Nearby service filtering  
+- Enhanced UI/UX  
+
+---
+
+## 👩‍💻 Author
+
+**Khushi Sharma**  
+
+Aspiring Software Developer passionate about building practical and responsive web applications.
