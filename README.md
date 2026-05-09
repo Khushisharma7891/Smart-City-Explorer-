@@ -6,12 +6,12 @@ An interactive map-based web application designed to help users explore cities, 
 
 ## Features
 
--Interactive city map  
--Search locations easily  
--Route calculation and navigation  
--Explore nearby places  
--User-friendly interface  
--Responsive design for multiple devices  
+- Interactive city map  
+- Search locations easily  
+- Route calculation and navigation  
+- Explore nearby places  
+- User-friendly interface  
+- Responsive design for multiple devices  
 
 ---
 
